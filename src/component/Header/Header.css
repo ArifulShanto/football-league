@@ -1,0 +1,18 @@
+.pl-header{
+    position: relative;
+    background:url(../../team-tracker-main/bgheader.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.pl-header-overlay h1{
+    text-align: center;
+    color: #ffff;
+    font-size: 48px;
+}
+.pl-header-overlay{
+    background-color: rgba(0, 0, 0, 0.5);
+    width: 100%;
+    padding: 181px 0px;
+}
+

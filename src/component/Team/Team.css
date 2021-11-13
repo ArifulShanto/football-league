@@ -1,0 +1,27 @@
+.pl-team img{
+    width: 130px;
+    height: 130px;
+    margin: 0 auto;
+    display: block;
+}
+
+.pl-team h2,.pl-team p{
+    text-align: center;
+    line-height: 30px;
+}
+.pl-team{
+    margin-bottom: 30px;
+    background-color: #ffff;
+    padding: 46px 0;
+    box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.1);
+    border-radius: 4px;
+}
+.pl-team button{
+    display:block;
+    margin: 0 auto;
+    border: none;
+    background-color: #3A42FF;
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: #ffff;
+}

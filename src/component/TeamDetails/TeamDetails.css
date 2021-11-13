@@ -1,0 +1,49 @@
+.team-details img{
+    width: 290px;
+    height: 215px;
+    display: block;
+    margin: 0 auto;
+}
+.overlay{
+    background-color: rgba(0, 0, 0, 0.5);
+    width: 100%;
+    padding: 80px 0px;
+}
+.male{
+    width: 442px;
+    height: 227px;
+
+}
+.info{
+    background-color: #3A42FF;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: 60px;
+    padding-left: 20px;
+    border-radius: 15px;
+}
+.info p{
+    color: white;
+}
+ .info h2{
+     color: white;
+ }
+ .team-info{
+     background-color: #0E0A2A;
+     padding: 20px 0;
+ }
+ .description{
+     margin-top: 20px;
+ }
+ .description p{
+    color:#AFAEB3;
+ }
+ .logo{
+     display: flex;
+     justify-content: center;
+     align-items: center;
+ }
+ .logo a{
+     margin: 0 20px;
+     font-size: 48px;
+ }
