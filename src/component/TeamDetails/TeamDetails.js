@@ -22,10 +22,7 @@ const TeamDetails = () => {
     const { strTeamBadge, strTeam, strStadiumThumb, strCountry, intFormedYear, strGender , strDescriptionEN ,strFacebook , strTwitter , strYoutube , strWebsite } = teamDetails;
     console.log(teamDetails);
     const teamDetailsStyle = {
-        background: `url(${strStadiumThumb})`,
-        backgroundPosition: "center",
-        backgroundRepeat: "no-repeat",
-        backgroundSize: "cover"
+        background: `url(${strStadiumThumb})`
     }
     return (
         <div>
